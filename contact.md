@@ -4,4 +4,4 @@ title: Contact
 slug: /contact
 ---
 
-![Email](assets/icons/email.png)
+![Email](assets/img/icons/email.png)
