@@ -7,6 +7,7 @@ slug: /contact
 Contact Me:
 
 <img src="assets/img/icons/email.png" width="25"> [yifei.violet.liu@wisc.edu](mailto:yifei.violet.liu@wisc.edu)
+
 <img src="assets/img/icons/address.png" width="25"> [519 Taylor Hall, 427 Lorch St. Madison, WI 53706]
 
 Connect with Me:
