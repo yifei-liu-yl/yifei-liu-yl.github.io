@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Welcome! I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison. My research interests include energy and environmental economics, and industrial organization. 
+I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison. My research interests include energy and environmental economics, and industrial organization. 
 </p>
 
 <p>
