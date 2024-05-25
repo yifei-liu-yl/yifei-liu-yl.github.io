@@ -5,7 +5,7 @@ slug: /contact
 ---
 
 Contact Me:
-![Email](.assets/img/icons/email.png =50x50): [yifei.violet.liu@wisc.edu](mailto:yifei.violet.liu@wisc.edu)
+<img src="assets/img/icons/email.png" width="200">[yifei.violet.liu@wisc.edu](mailto:yifei.violet.liu@wisc.edu)
 
 Follow Me:
 
