@@ -13,7 +13,7 @@ slug: /research
   </details>
  
 
-### Work in Progress
+### Selected Work in Progress
 * [**Market Structure and Transmission Investments in U.S. Electricity Markets**]()
    <details>
     <summary>Abstract:</summary>
