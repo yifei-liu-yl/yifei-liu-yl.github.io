@@ -20,7 +20,6 @@ header:
     - name: Home
       slug: /
     - name: Research
-    - name: Publication
     - name: CV
     - name: Contact
 
