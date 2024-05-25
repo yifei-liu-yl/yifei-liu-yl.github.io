@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-### Working Papers
+### Working Paper
 
 * [**An Empirical Analysis of the Interconnection Queue**](https://drive.google.com/file/d/18xYsdJgGPQR6AUBE2Bc4R5qEkYCGA7HC/view) (with Sarah Johnston and Chenyu Yang) [[NBER Working Paper](https://www.nber.org/papers/w31946)] Reject and Resubmit at *Econometrica*
   <details>
