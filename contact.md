@@ -10,4 +10,4 @@ Contact Me:
 
 Follow Me:
 
-[<img src="assets/img/icons/scholar" width="25">](https://scholar.google.com/citations?hl=en&authuser=1&user=HXurJnUAAAAJ)
+[<img src="assets/img/icons/scholar.png" width="25">](https://scholar.google.com/citations?hl=en&authuser=1&user=HXurJnUAAAAJ)
