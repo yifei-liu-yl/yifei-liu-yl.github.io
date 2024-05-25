@@ -33,37 +33,3 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
-
-// New styles for wider text area
-.page-content .wrapper {
-  display: flex;
-  justify-content: space-between;
-}
-
-.page-content .home {
-  flex: 1;
-  max-width: 75%; /* Adjust this value to make the text area wider */
-  margin-right: 20px;
-}
-
-.page-content .home img.profile-pic {
-  max-width: 25%; /* Adjust this value to control the image width */
-  height: auto;
-  margin-left: 20px;
-}
-
-@include media-query($on-mobile) {
-  .page-content .wrapper {
-    flex-direction: column;
-  }
-
-  .page-content .home {
-    max-width: 100%;
-    margin-right: 0;
-  }
-
-  .page-content .home img.profile-pic {
-    max-width: 100%;
-    margin-left: 0;
-  }
-}
