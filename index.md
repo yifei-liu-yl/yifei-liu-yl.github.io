@@ -14,5 +14,5 @@ My current work studies challenges related to the energy transition, focusing on
 </p>
 
 <p>
-Prior to my Ph.D., I earned a Bachelor of Science degree with a double major in Environmental Science and Environmental Economics & Policy from UC Berkeley.
+Prior to my Ph.D., I earned a Bachelor of Science degree from UC Berkeley.
 </p>
