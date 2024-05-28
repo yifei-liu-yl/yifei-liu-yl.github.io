@@ -27,7 +27,7 @@ slug: /research
   </details>
 
 ### Pre-Doctoral Publication
-* [**Identifying high-priority impact areas for electricity service to farmlands in Uganda through geospatial mapping**](https://www.sciencedirect.com/science/article/pii/S2666154321000740) (with Rebekah Shirley, Josephine Kakande, and Mark Kagarura) Journal of Agriculture and Food Research
+* [**Identifying high-priority impact areas for electricity service to farmlands in Uganda through geospatial mapping**](https://www.sciencedirect.com/science/article/pii/S2666154321000740) (with Rebekah Shirley, Josephine Kakande, and Mark Kagarura) Journal of Agriculture and Food Research, 2021
    <details>
     <summary>Abstract</summary>
     This article explores the food-energy nexus in sub–Saharan Africa by studying opportunities for improved agricultural productivity through electricity access. The study fills an acknowledged data gap by using geospatial analysis to identify priority areas where least-cost electricity delivery models intersect with agricultural needs. These findings are validated by community surveys in a key farming district. The analysis finds significant areas of underserved staple and cash crop farmlands can be served through grid and mini-grid electricity access within the next ten years.
