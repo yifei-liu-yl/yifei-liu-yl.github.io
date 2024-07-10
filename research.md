@@ -6,7 +6,7 @@ slug: /research
 
 ### Working Paper
 
-* [**An Empirical Analysis of the Interconnection Queue**](https://drive.google.com/file/d/18xYsdJgGPQR6AUBE2Bc4R5qEkYCGA7HC/view) (with Sarah Johnston and Chenyu Yang) [[NBER Working Paper](https://www.nber.org/papers/w31946)] Reject and Resubmit at *Econometrica*
+* [**An Empirical Analysis of the Interconnection Queue**](https://drive.google.com/file/d/18xYsdJgGPQR6AUBE2Bc4R5qEkYCGA7HC/view) (with Sarah Johnston and Chenyu Yang) [[NBER Working Paper](https://www.nber.org/papers/w31946)]
   <details>
     <summary>Abstract</summary>
     Generators applying to connect to the U.S. power grid go through an interconnection queue. Most wind and solar generators that begin the process do not complete it. Using new data, we find that a long queue increases the average waiting time, and high interconnection costs are a key factor in a generator’s decision to withdraw. We develop and estimate a dynamic model of the queue and quantify the effects of policy reforms. Our simulations indicate that reducing waiting times can significantly increase completions. An alternative queuing mechanism can therefore increase completed capacity by removing certain generators to reduce congestion. A flat entry fee has a similar effect. We also quantify the effects of reforming how interconnection costs are assessed. These policy reforms lead to a substantial reduction in carbon emissions.
