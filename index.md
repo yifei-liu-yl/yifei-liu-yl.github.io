@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.png
+  src: /assets/img/profile-pic-mini.png
   alt: website picture
 ---
 
@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Agricultural & Applied Economics at the University of 
 </p>
 
 <p>
-My current work studies challenges related to the energy transition, focusing on transmission investment, the interconnection process, and the infrastructure permitting process in the United States.
+My current work examines challenges in energy infrastructure development, with a focus on the interconnection process, infrastructure permitting, and transmission planning in the United States.
 </p>
 
 <p>
