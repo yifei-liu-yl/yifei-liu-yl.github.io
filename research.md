@@ -11,9 +11,23 @@ slug: /research
     <summary>Abstract</summary>
     Generators applying to connect to the U.S. power grid go through an interconnection queue. Most wind and solar generators that begin the process do not complete it. Using new data, we find that a long queue increases the average waiting time, and high interconnection costs are a key factor in a generator’s decision to withdraw. We develop and estimate a dynamic model of the queue and quantify the effects of policy reforms. Our simulations indicate that reducing waiting times can significantly increase completions. An alternative queuing mechanism can therefore increase completed capacity by removing certain generators to reduce congestion. A flat entry fee has a similar effect. We also quantify the effects of reforming how interconnection costs are assessed. These policy reforms lead to a substantial reduction in carbon emissions.
   </details>
+
+* [**Rising Grid Connection Costs are a Barrier to Expanding Electricity Generation Capacity**]() (with Sarah Johnston and Chenyu Yang)
+  <details>
+    <summary>Abstract</summary>
+    Meeting projected growth in electricity demand and climate goals will require building new electricity generators.  These generators must connect to an increasingly congested electric grid.  We collect new data on grid connection costs for the largest regional grid operator in the United States.  We find that the network upgrade costs for grid connection are increasing over time across fuel types and locations. We also find that planned generators with high network upgrade costs are much more likely to be canceled. Finally, recent transmission spending by the grid operator is associated with lower network upgrade costs for connecting generators. These findings emphasize the critical role of transmission capacity in expanding electricity generation capacity. 
+  </details>
+ 
  
 
 ### Selected Work in Progress
+
+* [**Permitting Risks, Litigation Threats, and Energy Infrastructure Investment**]()
+   <details>
+    <summary>Abstract</summary>
+    Capital investment in energy infrastructure is essential to support economic growth and meet rising electricity demand. In the U.S., however, the permitting process often imposes significant delays, particularly for renewable energy and transmission projects that are crucial for achieving climate and sustainability objectives. While permitting procedures are designed to ensure compliance with environmental and land-use regulations, they can inadvertently create procedural risks and serve as focal points for legal disputes. Community opposition frequently results in lawsuits that challenge projects on environmental or regulatory grounds, further stalling development even after permits are granted. Although these challenges are widely acknowledged, the quantitative impact of permitting delays and litigation on clean infrastructure development remains underexplored due to limited data availability. This study addresses this gap by constructing a novel dataset to empirically examine how litigation threats within the permitting process affect the development of clean energy infrastructure.
+  </details>
+  
 * [**Market Structure and Transmission Investments in U.S. Electricity Markets**]()
    <details>
     <summary>Abstract</summary>
