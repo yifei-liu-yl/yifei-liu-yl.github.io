@@ -21,6 +21,7 @@ header:
       slug: /
     - name: Research
     - name: CV
+    - name: Data
     - name: Contact
 
 footer:
