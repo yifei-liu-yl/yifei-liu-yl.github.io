@@ -4,6 +4,6 @@ title: Data
 slug: /data
 ---
 
-* [**Data on Interconnection Queue**]( https://www.econ.umd.edu/research/data-interconnection-queues)
+* [**Interconnection Queue Data**]( https://www.econ.umd.edu/research/data-interconnection-queues)
 
 
