@@ -16,3 +16,7 @@ My current work examines challenges in energy infrastructure development, with a
 <p>
 Prior to my doctoral study, I earned a Bachelor of Science degree from University of California-Berkeley.
 </p>
+
+<p>
+I expect to be on the job market of the 2025-2026 academic year.
+</p>
