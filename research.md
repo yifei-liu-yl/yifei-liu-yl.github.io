@@ -22,6 +22,7 @@ slug: /research
   </details>
 
 <br>
+
 * [**Grid Connection Costs as a Barrier to Building New Generation: Evidence and Implications for Transmission Policy**](grid_connection_costs_Aug12.pdf)) (with Sarah Johnston and Chenyu Yang)
   <details>
     <summary>Abstract</summary>
@@ -39,6 +40,7 @@ slug: /research
   </details>
 
 <br>
+
 * Production Network, Wind Penetration and Environmental Impact: The Case of Texas Wholesale Electricity Makret (with Sheldon Du and Qinan Lu)
   <details>
     <summary>Abstract</summary>
