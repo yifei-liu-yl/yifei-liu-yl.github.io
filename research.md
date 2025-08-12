@@ -4,6 +4,15 @@ title: Research
 slug: /research
 ---
 
+### Job Market Paper
+
+* Permitting Risks, Litigation Threats, and Energy Infrastructure Investment
+   <details>
+    <summary>Abstract</summary>
+    Capital investment in energy infrastructure is essential to support economic growth and meet rising electricity demand. In the U.S., however, the permitting process often imposes significant delays, particularly for renewable energy and transmission projects that are crucial for achieving climate and sustainability objectives. While permitting procedures are designed to ensure compliance with environmental and land-use regulations, they can inadvertently create procedural risks and serve as focal points for legal disputes. Community opposition frequently results in lawsuits that challenge projects on environmental or regulatory grounds, further stalling development even after permits are granted. Although these challenges are widely acknowledged, the quantitative impact of permitting delays and litigation on clean infrastructure development remains underexplored due to limited data availability. This study addresses this gap by constructing a novel dataset to empirically examine how litigation threats within the permitting process affect the development of clean energy infrastructure.
+  </details>
+  
+
 ### Working Paper
 
 * [**An Empirical Analysis of the Interconnection Queue**](interconnection_queues_aug2024.pdf) (with Sarah Johnston and Chenyu Yang) [[NBER Working Paper](https://www.nber.org/papers/w31946)]
@@ -22,12 +31,6 @@ slug: /research
 
 ### Selected Work in Progress
 
-* Permitting Risks, Litigation Threats, and Energy Infrastructure Investment
-   <details>
-    <summary>Abstract</summary>
-    Capital investment in energy infrastructure is essential to support economic growth and meet rising electricity demand. In the U.S., however, the permitting process often imposes significant delays, particularly for renewable energy and transmission projects that are crucial for achieving climate and sustainability objectives. While permitting procedures are designed to ensure compliance with environmental and land-use regulations, they can inadvertently create procedural risks and serve as focal points for legal disputes. Community opposition frequently results in lawsuits that challenge projects on environmental or regulatory grounds, further stalling development even after permits are granted. Although these challenges are widely acknowledged, the quantitative impact of permitting delays and litigation on clean infrastructure development remains underexplored due to limited data availability. This study addresses this gap by constructing a novel dataset to empirically examine how litigation threats within the permitting process affect the development of clean energy infrastructure.
-  </details>
-  
 * Market Structure and Transmission Investments in U.S. Electricity Markets
    <details>
     <summary>Abstract</summary>
