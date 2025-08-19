@@ -26,17 +26,23 @@ slug: /research
     <summary>Abstract</summary>
     Meeting projected growth in electricity demand and climate goals will require building new electricity generators.  These generators must connect to an increasingly congested electric grid.  We collect new data on grid connection costs for the largest regional grid operator in the United States.  We find that the network upgrade costs for grid connection are increasing over time across fuel types and locations. We also find that planned generators with high network upgrade costs are much more likely to be canceled. Finally, recent transmission spending by the grid operator is associated with lower network upgrade costs for connecting generators. These findings emphasize the critical role of transmission capacity in expanding electricity generation capacity. 
   </details>
- 
- 
-
-### Selected Work in Progress
 
 * Market Structure and Transmission Investments in U.S. Electricity Markets (draft coming soon)
    <details>
     <summary>Abstract</summary>
     Efforts to advance the green transition and decarbonize the electricity sector require strong support from electricity transmission infrastructure. This paper evaluates the impact of a specific market design, known as market dispatch, on transmission infrastructure investment. Traditionally, electricity within a specific region was supplied by a single, regulated utility company. However, in the late 1990s, many regions in the United States began to shift towards a market dispatch system, where electricity generation is supplied by multiple utility companies and each company's quantity is determined by an auction. Despite this change, the transmission operations of these companies continued to be regulated based on a cost-of-service basis. I use a dynamic difference-in-differences design, taking advantage of the staggered roll-out of market dispatch. The findings suggest that the adoption of this system leads to increases in transmission investment by the utilities, nearly doubling the investment levels at the mean. However, there is no robust evidence to suggest that these utilities spend more on high-voltage transmission infrastructures, which are considered pivotal for reducing greenhouse gas emissions.
   </details>
+ 
+ 
 
+### Selected Work in Progress
+
+* Cluster Designs and Strategic Delay in Interconnection Queues (with Sarah Johsnton and Chenyu Yang)
+  <details>
+    <summary>Abstract</summary>
+    Cluster study designs are increasingly used to manage grid connection requests submitted by new electricity generators. Under this scheme, grid operators group projects together to streamline the interconnection process. We collect new data on this process for SPP, a grid operator that uses cluster studies. We find that this design leads to significant interdependence in connection costs across generators. Moreover, the estimated connection cost for a given generator tends to fall as other generators leave the queue, leading to a war of attrition. We develop a model of a generator’s decision to wait or withdraw and consider the effects of alternative policies.
+  </details>
+  
 * Production Network, Wind Penetration and Environmental Impact: The Case of Texas Wholesale Electricity Makret (with Sheldon Du and Qinan Lu)
   <details>
     <summary>Abstract</summary>
