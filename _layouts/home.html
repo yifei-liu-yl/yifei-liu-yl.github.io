@@ -25,15 +25,17 @@
     
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profile-pic"
-            style="width: 250px; height: auto;"
-          />
-          <div class="page-content">
+        <div class="home-flex">
+          <div class="text_column">
             {{ content }}
+          </div>
+          <div class="image-column">
+            <img
+              src="{{ page.profile_picture.src | absolute_url }}"
+              alt="{{ page.profile_picture.alt }}"
+              class="profile-pic"
+              style="width: 250px; height: auto;"
+            />
           </div>
         </div>
       </div>
