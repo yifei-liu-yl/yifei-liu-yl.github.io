@@ -6,7 +6,11 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin–Madison. My research interests are in energy and environmental economics, empirical industrial organization, and applied econometrics. 
+I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin–Madison. 
+</p>
+
+<p>
+My research interests are in energy and environmental economics, empirical industrial organization, and applied econometrics. 
 </p>
 
 <p>
@@ -19,8 +23,4 @@ Prior to my doctoral study, I earned a Bachelor of Science degree from Universit
 
 <p>
 I will be on the job market in the 2025-2026 academic year.
-</p>
-
-<p>
-Please feel free to contact me at yifei.violet.liu[at]wisc.edu
 </p>
