@@ -6,11 +6,11 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin-Madison. My research interests include energy and environmental economics. 
+I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin–Madison. My research interests are in energy and environmental economics, empirical industrial organization, and applied econometrics. 
 </p>
 
 <p>
-My current work examines challenges in energy infrastructure development, with a focus on the interconnection process, infrastructure permitting, and transmission planning in the United States.
+My current work examines challenges in energy infrastructure development, with a focus on the electricity grid connection interconnection process, infrastructure permitting, and transmission planning in the United States. I study how policy, regulatory structure, and market design shape investment decisions in the energy sector.
 </p>
 
 <p>
@@ -18,5 +18,10 @@ Prior to my doctoral study, I earned a Bachelor of Science degree from Universit
 </p>
 
 <p>
-I expect to be on the job market of the 2025-2026 academic year.
+I will be on the job market of the 2025-2026 academic year.
 </p>
+
+<p>
+Please feel free to contact me at yifei.violet.liu[at]wisc.edu
+</p>
+</body>
