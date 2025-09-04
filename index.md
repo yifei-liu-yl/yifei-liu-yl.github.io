@@ -24,4 +24,3 @@ I will be on the job market of the 2025-2026 academic year.
 <p>
 Please feel free to contact me at yifei.violet.liu[at]wisc.edu
 </p>
-</body>
