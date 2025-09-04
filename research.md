@@ -13,7 +13,7 @@ slug: /research
   </details>
   
 
-### Working Paper
+### Working Papers
 
 * [**An Empirical Analysis of the Interconnection Queue**](interconnection_queues_aug2024.pdf) (with Sarah Johnston and Chenyu Yang) [[NBER Working Paper](https://www.nber.org/papers/w31946)] Reject and Resubmit at *Econometrica*
   <details>
