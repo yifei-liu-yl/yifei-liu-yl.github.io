@@ -31,10 +31,5 @@ $on-laptop: 800px;
   }
 }
 
-.wrapper {
-  max-width: 900px; /* or try 1200px, or even 100% for full width */
-  margin: 0 auto;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
