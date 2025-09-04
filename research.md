@@ -11,7 +11,7 @@ slug: /research
     <summary>Abstract</summary>
     Capital investment in energy infrastructure is essential to support economic growth and meet rising electricity demand. In the U.S., however, the permitting process often imposes significant delays, particularly for renewable energy and transmission projects that are crucial for achieving climate and sustainability objectives. While permitting procedures are designed to ensure compliance with environmental and land-use regulations, they can inadvertently create procedural risks and serve as focal points for legal disputes. Community opposition frequently results in lawsuits that challenge projects on environmental or regulatory grounds, further stalling development even after permits are granted. Although these challenges are widely acknowledged, the quantitative impact of permitting delays and litigation on clean infrastructure development remains underexplored due to limited data availability. This study addresses this gap by constructing a novel dataset to empirically examine how litigation threats within the permitting process affect the development of clean energy infrastructure.
   </details>
-<br>  
+
 
 ### Working Papers
 
@@ -32,7 +32,6 @@ slug: /research
     <summary>Abstract</summary>
     Meeting the growing demand for electricity and supporting the decarbonization of the power sector requires substantial investment in transmission infrastructure. This paper evaluates the impact of a specific market design, known as market dispatch, on transmission infrastructure investment. Under traditional regulation system, a single, regulated utility company supplied electricity within a region. Beginning in the late 1990s, however, many U.S. regions transitioned to market dispatch systems, where multiple utilities generate electricity and auction-based mechanisms determine dispatch quantities. Despite this shift, transmission operations remained subject to cost-of-service regulation. I exploit the staggered adoption of market dispatch across regions using a dynamic difference-in-differences design. The results show that adopting the market dispatch system leads to an average increase of $36 million in transmission investment by utilities—nearly 50% of mean investment levels. However, I find no robust evidence of increased investment on high-voltage transmission infrastructure, which is critical for integrating renewable energy and reducing greenhouse gas emissions.
   </details>
- <br>
  
 
 ### Selected Work in Progress
@@ -48,7 +47,7 @@ slug: /research
     <summary>Abstract</summary>
     To achieve the ambitious goal of carbon neutrality, the US government is accelerating the adoption of renewable energy and spends billions subsidizing renewable energy investments every year. However, the majority of these subsidies are production-based and do not consider the locations and interconnections of newly entering renewable generators and existing fossil fuel generators within the electricity grid. Consequently, renewable generators tend to cluster in areas where resources are rich and government incentives are the highest. This clustering could lead to suboptimal transmission congestion and generation curtailment. Productions from renewable generators at different locations may substitute productions from different sets of fossil generators. In this project, we investigate the benefits of emissions reduction from renewable generations after accounting for locational and interconnection effects as well as the changing network structure.  
   </details>
-<br>
+
 
 ### Pre-Doctoral Publication
 
