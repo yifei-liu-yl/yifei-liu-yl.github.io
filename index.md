@@ -18,7 +18,7 @@ Prior to my doctoral study, I earned a Bachelor of Science degree from Universit
 </p>
 
 <p>
-I will be on the job market of the 2025-2026 academic year.
+I will be on the job market in the 2025-2026 academic year.
 </p>
 
 <p>
