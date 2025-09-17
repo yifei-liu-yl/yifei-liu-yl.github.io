@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). 
+I am a Ph.D. candidate in <a href="https://aae.wisc.edu/">Agricultural & Applied Economics</a> at the <a href="https://www.wisc.edu/">University of Wisconsin–Madison</a>.  
 </p>
 
 <p>
@@ -18,9 +18,9 @@ I study how policy, regulatory institutions, and market structure shape investme
 </p>
 
 <p>
-Prior to my doctoral study, I earned a Bachelor of Science degree from [University of California–Berkeley](https://www.berkeley.edu/).
+Prior to my doctoral study, I earned a Bachelor of Science degree from <a href="https://www.berkeley.edu/">University of California–Berkeley</a>.
 </p>
 
 <p>
-<u>I will be on the 2025–26 academic job market.</u>
+  <em><strong>I will be on the 2025–26 academic job market.<strong></em>
 </p>
