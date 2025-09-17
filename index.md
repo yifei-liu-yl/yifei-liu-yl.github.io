@@ -18,9 +18,9 @@ I study how policy, regulatory institutions, and market structure shape investme
 </p>
 
 <p>
-Prior to my doctoral study, I earned a Bachelor of Science degree from [University of California-Berkeley](https://www.berkeley.edu/).
+Prior to my doctoral study, I earned a Bachelor of Science degree from [University of California–Berkeley](https://www.berkeley.edu/).
 </p>
 
 <p>
-<u>I will be on the 2025–26 academic job market.<u>
+<u>I will be on the 2025–26 academic job market.</u>
 </p>
