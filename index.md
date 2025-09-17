@@ -22,5 +22,5 @@ Prior to my doctoral study, I earned a Bachelor of Science degree from <a href="
 </p>
 
 <p>
-  <em><strong>I will be on the 2025–26 academic job market.<strong></em>
+  <strong>I will be on the 2025–26 academic job market.</strong>
 </p>
