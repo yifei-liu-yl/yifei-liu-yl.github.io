@@ -22,7 +22,7 @@ header:
     - name: Research
     - name: CV
     - name: New Data
-      slug: /new-data
+      slug: /data
     - name: Contact
 
 footer:
