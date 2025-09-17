@@ -6,21 +6,21 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in Agricultural & Applied Economics at the University of Wisconsin–Madison. 
+I am a Ph.D. candidate in [Agricultural & Applied Economics](https://aae.wisc.edu/) at the [University of Wisconsin–Madison](https://www.wisc.edu/). 
 </p>
 
 <p>
-My research interests are in energy and environmental economics, empirical industrial organization, and applied econometrics. 
+I am an applied economist interested in environmental and energy economics as well as empirical industrial organization. 
 </p>
 
 <p>
-My current work examines challenges in energy infrastructure development, with a focus on the electricity grid connection interconnection process, infrastructure permitting, and transmission planning in the United States. I study how policy, regulatory structure, and market design shape investment decisions in the energy sector.
+I study how policy, regulatory institutions, and market structure shape investment in the energy sector. My current work examines challenges in energy infrastructure development, focusing on infrastructure permitting, electricity grid interconnection, and transmission planning in the United States, and their implications for environmental sustainability.
 </p>
 
 <p>
-Prior to my doctoral study, I earned a Bachelor of Science degree from University of California-Berkeley.
+Prior to my doctoral study, I earned a Bachelor of Science degree from [University of California-Berkeley](https://www.berkeley.edu/).
 </p>
 
 <p>
-I will be on the job market in the 2025-2026 academic year.
+<u>I will be on the 2025–26 academic job market.<u>
 </p>
