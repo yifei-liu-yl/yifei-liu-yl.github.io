@@ -1,7 +1,7 @@
 ---
 layout: work
 title: New Data
-slug: /data
+slug: /new-data
 ---
 
 * [**Interconnection Queue Data**](https://www.econ.umd.edu/research/data-interconnection-queues) (Version: May 2025)
