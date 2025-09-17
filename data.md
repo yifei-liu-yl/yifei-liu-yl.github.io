@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Data
+title: New Data
 slug: /data
 ---
 
