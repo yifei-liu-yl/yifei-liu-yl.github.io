@@ -4,7 +4,7 @@ title: Teaching
 slug: /teaching
 ---
 
-**University of Wisconsin-Madison**
+### University of Wisconsin-Madison
 
 Teaching Assistant – Department of Agricultural and Applied Economics
 
