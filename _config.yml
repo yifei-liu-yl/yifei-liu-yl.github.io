@@ -19,8 +19,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
     - name: CV
+    - name: Research
+    - name: Teaching
+      slug: /teaching
     - name: New Data
       slug: /data
     - name: Contact
