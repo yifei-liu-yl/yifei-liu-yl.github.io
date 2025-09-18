@@ -4,9 +4,7 @@ title: Teaching
 slug: /teaching
 ---
 
-### University of Wisconsin-Madison
-
-Teaching Assistant – Department of Agricultural and Applied Economics
+Teaching Assistant – University of Wisconsin-Madison
 
 * AAE 352 [Global Health: Economics, Natural Systems, and Policy](https://guide.wisc.edu/courses/a_a_e/) (Undergraduate) - Fall 2023
   <details>
