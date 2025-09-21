@@ -14,7 +14,7 @@ I am an applied economist interested in environmental and energy economics as we
 </p>
 
 <p>
-I study how policy, regulatory institutions, and market structure shape investment in the energy sector. My current work examines challenges in energy infrastructure development, focusing on infrastructure permitting, electricity grid interconnection, and transmission planning in the United States, and their implications for environmental sustainability.
+I study how policy, regulatory institutions, and market structure influence the energy sector broadly, with a particular focus on investment. My current work examines challenges in energy infrastructure development, focusing on infrastructure permitting, electricity grid interconnection, and transmission planning in the United States, and their implications for environmental sustainability.
 </p>
 
 <p>
