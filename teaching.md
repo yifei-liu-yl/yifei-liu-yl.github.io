@@ -8,7 +8,13 @@ Teaching Assistant – University of Wisconsin-Madison
 
 * AAE 352 [Global Health: Economics, Natural Systems, and Policy](https://guide.wisc.edu/courses/a_a_e/) (Undergraduate) - Fall 2023
   <details>
-    <summary>Course Details</summary>
-    Sustaining global health and well-being depends critically on interactions between human and natural systems at multiple spatial and temporal scales. Economics provides a useful paradigm for understanding these interactions and the pathways through which individual and societal decisions made in the face of scarce resources, and threats to the natural environment, generate health and well-being outcomes. Provides students with an opportunity to use basic economic and social science reasoning to describe global heath challenges; understand the causes and consequences of health discrepancies; evaluate health and environmental policies; and appreciate the interconnectedness of planetary health and economic outcomes.
+    <summary> Details</summary>
+    <p>
+    This course examined how human and natural systems interact to shape health, environmental, and well-being outcomes at global and local scales, using economic frameworks to analyze these relationships.
+    </p>
+
+    <p>
+    My responsibilities included teaching four weekly discussion sections with over 80 students total, guiding them in applying economic reasoning to global health challenges, environmental threats, and policy solutions. I graded assignments and final exams with detailed feedback to support student learning, and held two office hours weekly to address student questions and reinforce core concepts linking economic decision-making, planetary health, and policy evaluation.
+    </p>
   </details>
   
