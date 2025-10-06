@@ -4,16 +4,15 @@ title: Research
 slug: /research
 ---
 
-### Job Market Paper
-
-* Permitting Risks, Litigation Threats, and Energy Infrastructure Investment (draft coming soon)
-   <details>
-    <summary>Abstract</summary>
-    Capital investment in energy infrastructure is essential to support economic growth and meet rising electricity demand. In the U.S., however, the permitting process often imposes significant delays, particularly for renewable energy and transmission projects that are crucial for achieving climate and sustainability objectives. While permitting procedures are designed to ensure compliance with environmental and land-use regulations, they can inadvertently create procedural risks and serve as focal points for legal disputes. Community opposition frequently results in lawsuits that challenge projects on environmental or regulatory grounds, further stalling development even after permits are granted. Although these challenges are widely acknowledged, the quantitative impact of permitting delays and litigation on clean infrastructure development remains underexplored due to limited data availability. This study addresses this gap by constructing a novel dataset to empirically examine how litigation threats within the permitting process affect the development of clean energy infrastructure.
-  </details>
-
 
 ### Working Papers
+
+* Permitting Risks, Litigation Threats, and Energy Infrastructure Investment **(Job Market Paper)** (draft coming soon)
+   <details>
+    <summary>Abstract</summary>
+    Capital investment in energy infrastructure is essential to support economic growth and meet rising electricity demand. In the U.S., however, legal risks arising from the infrastructure permitting process may deter such investment, though their magnitude and mechanisms remain unclear. Using novel litigation data on environmental and land-use permits, I study this question in the context of renewable energy infrastructure. I find that litigation influences market entry through two channels. Directly, historical litigation deters renewable market entry by 4 percent at the mean entry rate through perceived risk, while legal precedent encourages entry by 9 percent by clarifying legal standards. Indirectly, through regulatory agency responses, litigation extends permit review timelines by 21 days on average and by 206 days following negative rulings, while legal precedent alleviates these delays through the same mechanism. Legal precedent functions as a public good: individual developers bear full costs of legal proceedings while benefits from legal clarity accrue to all future projects. This likely leads to underinvestment in legal precedent, consistent with economic theory and observed patterns where most developers with unfavorable rulings do not engage in further legal proceedings. I develop a structural model of entry and legal proceedings that accounts for selection and estimates average permitting costs of $5.5 million, or 14 percent of expected project net profits. Counterfactual simulations show appeal subsidies increase market entry by 6 percent, compared to 3.4 percent from permitting cost reductions and less than 1 percent from stronger precedent influence. Internalizing the externalities of legal precedent may accelerate renewable deployment more effectively than administrative reforms alone.
+
+  </details>
 
 * [**An Empirical Analysis of the Interconnection Queue**](interconnection_queues_aug2024.pdf) (with Sarah Johnston and Chenyu Yang) [[NBER Working Paper](https://www.nber.org/papers/w31946)] Reject and Resubmit at *Econometrica*
   <details>
