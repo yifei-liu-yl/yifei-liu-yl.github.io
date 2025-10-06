@@ -23,7 +23,7 @@ header:
     - name: Teaching
       slug: /teaching
     - name: CV
-    - name: New Data
+    - name: Data
       slug: /data
 
 footer:
