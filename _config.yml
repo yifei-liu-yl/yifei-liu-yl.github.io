@@ -25,7 +25,6 @@ header:
     - name: CV
     - name: New Data
       slug: /data
-    - name: Contact
 
 footer:
   show_powered_by: true
