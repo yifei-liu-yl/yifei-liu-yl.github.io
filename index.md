@@ -21,6 +21,3 @@ I study how policy, regulatory institutions, and market structure influence the 
 Prior to my doctoral study, I earned a Bachelor of Science degree from <a href="https://www.berkeley.edu/">University of California–Berkeley</a>.
 </p>
 
-<p>
-  <strong>I will be on the 2025–26 academic job market.</strong>
-</p>
