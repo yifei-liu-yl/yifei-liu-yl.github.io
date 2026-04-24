@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic-mini.png
+  src: /assets/img/YifeiLiu_pic_mini.png
   alt: website picture
 ---
 
