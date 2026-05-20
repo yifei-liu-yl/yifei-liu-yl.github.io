@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a Ph.D. candidate in <a href="https://aae.wisc.edu/">Agricultural & Applied Economics</a> at the <a href="https://www.wisc.edu/">University of Wisconsin–Madison</a>. I will be an Assistant Professor of Economics at the <a href="https://www.hkubs.hku.hk/"> University of Hong Kong Business School </a> in Fall 2026.
+I will join the <a href="https://www.hkubs.hku.hk/"> University of Hong Kong Business School </a> as an Assistant Professor of Economics in Fall 2027, after a year at <a href="https://ceepr.mit.edu/"> MIT CEEPR </a> as a Postdoctoral Associate. 
 </p>
 
 <p>
@@ -14,6 +14,6 @@ I am an applied economist interested in environmental and energy economics as we
 </p>
 
 <p>
-Prior to my doctoral study, I earned a Bachelor of Science degree from <a href="https://www.berkeley.edu/">University of California–Berkeley</a>.
+I received my Ph.D. in Applied Economics from <a href="https://aae.wisc.edu/">University of Wisconsin-Madison AAE</a> in 2026 and earned my B.S. from <a href="https://www.berkeley.edu/">University of California–Berkeley</a>.
 </p>
 
