@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I will join the <a href="https://www.hkubs.hku.hk/"> University of Hong Kong Business School </a> as an Assistant Professor of Economics in Fall 2027, after a year at <a href="https://ceepr.mit.edu/"> MIT CEEPR </a> as a Postdoctoral Associate. 
+I will join the <a href="https://www.hkubs.hku.hk/"> HKU Business School </a> as an Assistant Professor of Economics in Fall 2027, after a year at <a href="https://ceepr.mit.edu/"> MIT CEEPR </a> as a Postdoctoral Associate. 
 </p>
 
 <p>
