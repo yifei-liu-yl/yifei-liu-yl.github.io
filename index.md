@@ -14,6 +14,6 @@ I am an applied economist interested in environmental and energy economics as we
 </p>
 
 <p>
-I received my Ph.D. in Applied Economics from <a href="https://aae.wisc.edu/">University of Wisconsin-Madison AAE</a> in 2026 and earned my B.S. from <a href="https://www.berkeley.edu/">University of California–Berkeley</a>.
+I received my Ph.D. in Applied Economics from <a href="https://aae.wisc.edu/">University of Wisconsin–Madison AAE</a> in 2026 and earned my B.S. from <a href="https://www.berkeley.edu/">University of California–Berkeley</a> in 2020.
 </p>
 
