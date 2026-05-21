@@ -6,11 +6,15 @@ profile_picture:
 ---
 
 <p>
-I will join the <a href="https://www.hkubs.hku.hk/"> HKU Business School </a> as an Assistant Professor of Economics in Fall 2027, after a year at <a href="https://ceepr.mit.edu/"> MIT CEEPR </a> as a Postdoctoral Associate. 
+I will be a Postdoctoral Associate at the Center for Energy and Environmental Policy Research at <a href="https://ceepr.mit.edu/"> MIT </a> for the 2026-2027 academic year. 
+</p>
+
+<p>  
+I will join the <a href="https://www.hkubs.hku.hk/"> HKU</a> Business School as an Assistant Professor of Economics in Fall 2027.
 </p>
 
 <p>
-I am an applied economist interested in environmental and energy economics as well as empirical industrial organization. I study how policy, regulatory institutions, and market structure influence the energy sector broadly, with a particular focus on investment. My current work examines challenges in energy infrastructure development, focusing on infrastructure permitting, electricity grid interconnection, and transmission planning in the United States, and their implications for environmental sustainability.
+I am an applied economist interested in environmental and energy economics as well as empirical industrial organization. I study how policy, regulatory institutions, and market structure influence the energy sector broadly, with a particular focus on investment.
 </p>
 
 <p>
