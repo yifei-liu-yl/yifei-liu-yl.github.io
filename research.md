@@ -35,7 +35,7 @@ slug: /research
   </details>
 
 
-### Publication
+### Publications
 
 * [**Grid Connection Costs as a Barrier to New Generation: Evidence from PJM and Implications for Transmission Policy**](https://www.sciencedirect.com/science/article/pii/S0140988326004202) (with Sarah Johnston and Chenyu Yang) [[RFF Working Paper](https://www.rff.org/publications/working-papers/grid-connection-costs-as-a-barrier-to-building-new-generation-evidence-and-implications-for-transmission-policy/)] *Energy Economics, 2026*
   <br>
