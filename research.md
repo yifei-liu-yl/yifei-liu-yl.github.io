@@ -39,7 +39,7 @@ slug: /research
 
 * [**Grid Connection Costs as a Barrier to New Generation: Evidence from PJM and Implications for Transmission Policy**](https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/S0140988326004202) (with Sarah Johnston and Chenyu Yang) [[RFF Working Paper](https://www.rff.org/publications/working-papers/grid-connection-costs-as-a-barrier-to-building-new-generation-evidence-and-implications-for-transmission-policy/)] *Energy Economics, 2026*
   <br>
-  <a href="https://drive.google.com/file/d/1vX7rFjVgQbptkKQ2Nb5Thp7-JmZVGwu/view?usp=sharing">Replication Code</a>
+  <a href="https://drive.google.com/file/d/1vX7rFjVgQbptkKQ20Nb5Thp7-JmZVGwu/view?usp=sharing">Replication Code</a>
   <details>
     <summary>Abstract</summary>
     Meeting projected growth in electricity demand and climate goals will require building new electricity generators. The grid connection process is seen as a key constraint on this development. We collect new data on grid connection costs for PJM, the largest regional grid operator in the United States. We geographically match these costs to transmission spending to study their determinants. Using regression analysis, we find that these costs, and especially the network upgrade portion, are difficult to predict: generators with similar characteristics can have very different costs. We also find that planned generators with high network upgrade costs are much more likely to be canceled. Finally, prior transmission spending by the grid operator is associated with lower network upgrade costs for connecting generators. These findings emphasize the critical role of transmission capacity in expanding electricity generation capacity. 
