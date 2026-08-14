@@ -18,13 +18,7 @@ slug: /research
     <summary>Abstract</summary>
     Generators applying to connect to the U.S. power grid go through an interconnection queue. Most wind and solar generators that begin the process do not complete it. Using new data, we find that a long queue increases the average waiting time, and high interconnection costs are a key factor in a generator’s decision to withdraw. We develop and estimate a dynamic model of the queue and quantify the effects of policy reforms. Our simulations indicate that reducing waiting times can significantly increase completions. An alternative queuing mechanism can therefore increase completed capacity by removing certain generators to reduce congestion. A flat entry fee has a similar effect. We also quantify the effects of reforming how interconnection costs are assessed. These policy reforms lead to a substantial reduction in carbon emissions.
   </details>
-
-* [**Grid Connection Costs as a Barrier to Building New Generation: Evidence and Implications for Transmission Policy**](grid_connection_costs.pdf) (with Sarah Johnston and Chenyu Yang) [[RFF Working Paper](https://www.rff.org/publications/working-papers/grid-connection-costs-as-a-barrier-to-building-new-generation-evidence-and-implications-for-transmission-policy/)] Submitted
-  <details>
-    <summary>Abstract</summary>
-    Meeting projected growth in electricity demand and climate goals will require building new electricity generators.  These generators must connect to an increasingly congested electric grid.  We collect new data on grid connection costs for the largest regional grid operator in the United States.  We find that the network upgrade costs for grid connection are increasing over time across fuel types and locations. We also find that planned generators with high network upgrade costs are much more likely to be canceled. Finally, recent transmission spending by the grid operator is associated with lower network upgrade costs for connecting generators. These findings emphasize the critical role of transmission capacity in expanding electricity generation capacity. 
-  </details>
-
+  
 * [**Market Structure and Transmission Investments in U.S. Electricity Markets**](YLiu_Market_Dispatch_Transmission_Investment.pdf)
    <details>
     <summary>Abstract</summary>
@@ -40,16 +34,19 @@ slug: /research
     Cluster study designs are increasingly used to manage grid connection requests submitted by new electricity generators. Under this scheme, grid operators group projects together to streamline the interconnection process. We collect new data on this process for SPP, a grid operator that uses cluster studies. We find that this design leads to significant interdependence in connection costs across generators. Moreover, the estimated connection cost for a given generator tends to fall as other generators leave the queue, leading to a war of attrition. We develop a model of a generator’s decision to wait or withdraw and consider the effects of alternative policies.
   </details>
 
-* Production Network, Wind Penetration and Environmental Impact: The Case of Texas Wholesale Electricity Makret (with Sheldon Du and Qinan Lu)
+
+### Publication
+
+* [**Grid Connection Costs as a Barrier to New Generation: Evidence from PJM and Implications for Transmission Policy**](https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/S0140988326004202) (with Sarah Johnston and Chenyu Yang) [[RFF Working Paper](https://www.rff.org/publications/working-papers/grid-connection-costs-as-a-barrier-to-building-new-generation-evidence-and-implications-for-transmission-policy/)] *Energy Economics, 2026*
+  <br>
+  <a href="https://drive.google.com/file/d/1vX7rFjVgQbptkKQ2Nb5Thp7-JmZVGwu/view?usp=sharing">Replication Code</a>
   <details>
     <summary>Abstract</summary>
-    To achieve the ambitious goal of carbon neutrality, the US government is accelerating the adoption of renewable energy and spends billions subsidizing renewable energy investments every year. However, the majority of these subsidies are production-based and do not consider the locations and interconnections of newly entering renewable generators and existing fossil fuel generators within the electricity grid. Consequently, renewable generators tend to cluster in areas where resources are rich and government incentives are the highest. This clustering could lead to suboptimal transmission congestion and generation curtailment. Productions from renewable generators at different locations may substitute productions from different sets of fossil generators. In this project, we investigate the benefits of emissions reduction from renewable generations after accounting for locational and interconnection effects as well as the changing network structure.  
+    Meeting projected growth in electricity demand and climate goals will require building new electricity generators. The grid connection process is seen as a key constraint on this development. We collect new data on grid connection costs for PJM, the largest regional grid operator in the United States. We geographically match these costs to transmission spending to study their determinants. Using regression analysis, we find that these costs, and especially the network upgrade portion, are difficult to predict: generators with similar characteristics can have very different costs. We also find that planned generators with high network upgrade costs are much more likely to be canceled. Finally, prior transmission spending by the grid operator is associated with lower network upgrade costs for connecting generators. These findings emphasize the critical role of transmission capacity in expanding electricity generation capacity. 
   </details>
-
-
-### Pre-Doctoral Publication
-
-* [**Identifying high-priority impact areas for electricity service to farmlands in Uganda through geospatial mapping**](https://www.sciencedirect.com/science/article/pii/S2666154321000740) (with Rebekah Shirley, Josephine Kakande, and Mark Kagarura) Journal of Agriculture and Food Research, 2021
+  
+  
+* [**Identifying high-priority impact areas for electricity service to farmlands in Uganda through geospatial mapping**](https://www.sciencedirect.com/science/article/pii/S2666154321000740) (with Rebekah Shirley, Josephine Kakande, and Mark Kagarura) *Journal of Agriculture and Food Research, 2021*
    <details>
     <summary>Abstract</summary>
     This article explores the food-energy nexus in sub–Saharan Africa by studying opportunities for improved agricultural productivity through electricity access. The study fills an acknowledged data gap by using geospatial analysis to identify priority areas where least-cost electricity delivery models intersect with agricultural needs. These findings are validated by community surveys in a key farming district. The analysis finds significant areas of underserved staple and cash crop farmlands can be served through grid and mini-grid electricity access within the next ten years.
