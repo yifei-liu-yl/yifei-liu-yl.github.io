@@ -30,13 +30,13 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yifei.violet.liu@wisc.edu
-      link: mailto:yifei.violet.liu@wisc.edu
+      value: liu648@mit.edu
+      link: mailto:liu648@mit.edu
     # - name: WeChat
     #   value: YourWeChatUsername
       link: "#"
     - name: Address
-      value: Taylor Hall, 427 Lorch Street, Madison, WI 53706
+      value: 77 Massachusetts Avenue, E19-411, Cambridge, MA 02139
   follow:
     # - name: Twitter
     #   link: http://twitter.com/YourTwitterUsername
