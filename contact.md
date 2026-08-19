@@ -6,9 +6,9 @@ slug: /contact
 
 ### Contact Me:
 
-<img src="assets/img/icons/email.png" width="25"> [Email: yifei.violet.liu@wisc.edu](mailto:yifei.violet.liu@wisc.edu)
+<img src="assets/img/icons/email.png" width="25"> [Email: liu648@mit.edu](mailto:liu648@mit.edu)
 
-<img src="assets/img/icons/address.png" width="25"> Address: 519 Taylor Hall, 427 Lorch St. Madison, WI 53706
+<img src="assets/img/icons/address.png" width="25"> Address: 77 Massachusetts Avenue, E19-411, Cambridge, MA 02139
 
 <br>
 
