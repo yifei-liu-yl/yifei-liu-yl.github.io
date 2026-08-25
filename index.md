@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I will be a Postdoctoral Associate at the Center for Energy and Environmental Policy Research at <a href="https://ceepr.mit.edu/"> MIT </a> for the 2026-2027 academic year. 
+I am a Postdoctoral Associate at the Center for Energy and Environmental Policy Research at <a href="https://ceepr.mit.edu/"> MIT </a> for the 2026-2027 academic year. 
 </p>
 
 <p>  
